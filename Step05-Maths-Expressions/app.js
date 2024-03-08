@@ -19,6 +19,9 @@ console.log(num1 * num2);
 // For Division of numbers :-
 console.log(num1 / num2);
 
+// For Modulus of numbers :-
+console.log(num1 % num2);
+// Modulus returns the reminder value after Divsion of Numbers.
 
 // JavaScript follows "BODMAS" priority order therefore, If we want to remove Ambiguity in any Airthmetic we can add Brackets.
 
